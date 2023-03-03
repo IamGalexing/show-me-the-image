@@ -1,0 +1,12 @@
+.noContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  font-size: calc(25px + 1vw);
+  color: rgba(25, 155, 215, 0.8);
+}
+
+.noContent span {
+  padding-left: 5px;
+}
